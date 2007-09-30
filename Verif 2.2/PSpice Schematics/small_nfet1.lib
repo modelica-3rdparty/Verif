@@ -1,0 +1,3 @@
+.model Jbreakn NJF level=1 VTO=1.1 LAMBDA=0.001 BETA=15e-3 IS=1e-15 PB=0.2
++ RS=0.5 RD=1.5 CGS=50e-15 CGD=50e-15 M=0.5 XTI=3
+*$

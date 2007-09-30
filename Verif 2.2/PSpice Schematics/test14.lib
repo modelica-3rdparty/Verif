@@ -1,0 +1,27 @@
+* OrCAD Model Editor - Version 9.1
+
+*$
+.model MbreakN-X NMOS Level=2 Ld=0.0u Tox=225.000e-10 Nsub=1.566e+16
++ Vto=0.622490 Kp=6.326640E-05 Gamma=.639243 Phi=.31 Uo=1215.74
++ Uexp=4.612355e-2 Ucrit=174667 Delta=0.0 Vmax=177269 Xj=.9u Lambda=0.0
++ Nfs=4.55168e+12 Neff=4.68830 Nss=3.000000E+10 Tpg=1.00000 Rsh=60
++ Cgso=2.89e-10 Cgdo=2.89e-10 Cj=3.27e-04 Mj=1.067 Cjsw=1.74e-10 Mjsw=.195
+*$
+.model MbreakN-X1 NMOS Level=2 Ld=0.0u Tox=225.000e-10 Nsub=1.566e+16
++ Vto=0.622490 Kp=6.326640E-05 Gamma=.639243 Phi=.31 Uo=1215.74
++ Uexp=4.612355e-2 Ucrit=174667 Delta=0.0 Vmax=177269 Xj=.9u Lambda=0.0
++ Nfs=4.55168e+12 Neff=4.68830 Nss=3.000000E+10 Tpg=1.00000 Rsh=60
++ Cgso=2.89e-10 Cgdo=2.89e-10 Cj=3.27e-04 Mj=1.067 Cjsw=1.74e-10 Mjsw=.195
+*$
+.model MbreakN-X2 NMOS Level=2 Ld=0.0u Tox=225.000e-10 Nsub=1.566e+16
++ Vto=0.622490 Kp=6.326640E-05 Gamma=.639243 Phi=.31 Uo=1215.74
++ Uexp=4.612355e-2 Ucrit=174667 Delta=0.0 Vmax=177269 Xj=.9u Lambda=0.0
++ Nfs=4.55168e+12 Neff=4.68830 Nss=3.000000E+10 Tpg=1.00000 Rsh=60
++ Cgso=2.89e-10 Cgdo=2.89e-10 Cj=3.27e-04 Mj=1.067 Cjsw=1.74e-10 Mjsw=.195
+*$
+.model MbreakN-X3 NMOS Level=2 Ld=0.0u Tox=225.000e-10 Nsub=1.566e+16
++ Vto=0.622490 Kp=6.326640E-05 Gamma=.639243 Phi=.31 Uo=1215.74
++ Uexp=4.612355e-2 Ucrit=174667 Delta=0.0 Vmax=177269 Xj=.9u Lambda=0.0
++ Nfs=4.55168e+12 Neff=4.68830 Nss=3.000000E+10 Tpg=1.00000 Rsh=60
++ Cgso=2.89e-10 Cgdo=2.89e-10 Cj=3.27e-04 Mj=1.067 Cjsw=1.74e-10 Mjsw=.195
+*$

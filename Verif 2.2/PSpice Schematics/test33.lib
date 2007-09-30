@@ -1,0 +1,2 @@
+.model Qbreakn NPN BF=50 VAF=50 IS=1.E-12 RB=100 CJC=.5PF TF=.6NS
+*$

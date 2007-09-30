@@ -1,0 +1,5 @@
+* OrCAD Model Editor - Version 9.1
+
+*$
+.model QbreakN NPN CJE=.2F CJC=.2F RC=.1 RE=.1
+*$

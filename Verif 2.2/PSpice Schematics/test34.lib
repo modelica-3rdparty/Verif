@@ -1,0 +1,2 @@
+.model Qbreakn NPN BF=20 RB=100 TF=.1NS CJC=2PF
+*$

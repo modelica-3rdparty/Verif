@@ -1,0 +1,2 @@
+.model Mbreakn NMOS level=1 TPG=1 NSUB=4.9999999e10 RD=1 RS=1
+*$

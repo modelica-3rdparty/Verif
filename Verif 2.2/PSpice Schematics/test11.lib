@@ -1,0 +1,45 @@
+* OrCAD Model Editor - Version 9.1
+
+*$
+*BeginSpec
+*IF:
+*JC:
+*RL:
+*RB: Vz=0 Iz=0 Zz=0
+*RR: Trr=0 Ifwd=10.000E-3 Irev=10.000E-3 Rl=100
+*EndSpec
+
+*BeginTrace
+*IF: 1,0,.4,1.2000,1,3,0,0,-1 (27)
+*JC: 0,1,.1,10,1,3,0,0,-1 (27)
+*RL: 0,0,1,100,1,3,0,0,-1 (27)
+*RB: 0,1,100.00E-6,1,1,3,0,0,-1 (27)
+*RR: 0,0,-5.0000E-9,20.000E-9,1,3,0,0,-1 (27)
+*EndTrace
+
+*BeginParam
+*IS=10.000E-15 (10.000E-21,.1,0)
+*N=1 (.2,5,0)
+*RS=.1 (1.0000E-6,100,0)
+*IKF=0 (0,1.0000E3,0)
+*XTI=3 (-100,100,0)
+*EG=1.1100 (.1,5.5100,0)
+*CJO=100.00E-15 (10.000E-21,1.0000E-3,0)
+*M=.3333 (.1,10,0)
+*VJ=.75 (.3905,10,0)
+*FC=.5 (1.0000E-3,10,0)
+*ISR=100.00E-12 (10.000E-21,.1,0)
+*NR=2 (.5,5,0)
+*BV=24 (.1,1.0000E6,0)
+*IBV=100.00E-6 (1.0000E-9,10,0)
+*TT=5.0000E-9 (100.00E-18,1.0000E-3,0)
+*EndParam
+
+*DEVICE=Dbreak,D
+
+* Dbreak D model
+* updated using Model Editor release 9.1 on 08/04/07 at 14:13
+* Model Editor is an OrCAD product.
+.MODEL Dbreak D RS=.1 CJO=100.00E-15 M=.3333 VJ=.75 ISR=100.00E-12 BV=24
++ IBV=100.00E-6 TT=5.0000E-9
+*$

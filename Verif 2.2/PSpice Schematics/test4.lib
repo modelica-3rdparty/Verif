@@ -1,0 +1,7 @@
+* OrCAD Model Editor - Version 9.1
+
+*$
+.model QbreakN-X-1 NPN
+*$
+.model QbreakN-X NPN
+*$
